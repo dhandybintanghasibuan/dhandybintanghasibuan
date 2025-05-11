@@ -33,5 +33,6 @@
 
 ### 🐍 Watch my contribution graph get eaten by a Snake!
 
-![snake gif](https://github.com/dhandybintanghasibuan/dhandybintanghasibuan/blob/output/github-contribution-grid-snake.gif)
+![![image](https://github.com/user-attachments/assets/c3505aca-c3a7-4a7e-bc97-bb05234dfa1b)
+](https://github.com/dhandybintanghasibuan/dhandybintanghasibuan/blob/output/github-contribution-grid-snake.gif)
 
