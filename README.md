@@ -23,18 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhandybintanghasibuan&show_icons=true&locale=en&layout=compact" alt="dhandybintanghasibuan" /></p>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhandybintanghasibuan&show_icons=true&theme=radical" />
-</p>
-
----
-
-### 🐍 Watch my contribution graph get eaten by a Snake!
-
-<p align="center">
-  <img src="https://github.com/dhandybintanghasibuan/dhandybintanghasibuan/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-</p>
-
-
