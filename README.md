@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhandy Bintang Hasibuan</h1>
 <h3 align="center">🎓 I'm passionate about building impactful web and mobile applications.</h3>
 
-- 🔭 I’m currently working on ****PolmedConnect** — A smart campus mobile app for student services**
+- 🔭 I’m currently working on **Humusense — Affordable IoT-based soil fertility detection for smarter urban farming.**
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, Framer Motion, Supabase Realtime**
 
-- 👯 I’m looking to collaborate on **Humusense — Affordable IoT-based soil fertility detection for smarter urban farming.**
+- 👯 I’m looking to collaborate on ****PolmedConnect** — A smart campus mobile app for student services**
 
 - 🤝 I’m looking for help with ****GIS Mapping Website** — Interactive education maps using QGIS + Next.js**
 
