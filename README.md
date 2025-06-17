@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhandy Bintang Hasibuan</h1>
 <h3 align="center">🎓 I'm passionate about building impactful web and mobile applications.</h3>
 
-- 🔭 I’m currently working on **Humusense — Affordable IoT-based soil fertility detection for smarter urban farming.**
+- 🔭 I am currently working on Kode Untuk Asa — A digital movement to ‘recompile’ the future for underserved children.**
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, Framer Motion, Supabase Realtime**
 
