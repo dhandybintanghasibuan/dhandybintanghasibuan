@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Dhandy Bintang Hasibuan</h1>
 <h3 align="center">🎓 I'm passionate about building impactful web and mobile applications.</h3>
 
-- 🔭 I am currently working on Kode Untuk Asa — A digital movement to ‘recompile’ the future for underserved children.**
+I am a Mobile and Web Developer. From crafting intuitive mobile interfaces with Flutter to architecting robust web systems with Laravel and Next.js, I focus on writing clean, efficient, and scalable code.
 
-- 🌱 I’m currently learning **TypeScript, GraphQL, Framer Motion, Supabase Realtime**
+🚀 Technical Arsenal:
 
-- 👯 I’m looking to collaborate on ****PolmedConnect** — A smart campus mobile app for student services**
+Mobile: Flutter, Kotlin, React Native, Java.
 
-- 🤝 I’m looking for help with ****GIS Mapping Website** — Interactive education maps using QGIS + Next.js**
+Frontend: Next.js, TypeScript, Tailwind CSS, Vite.
 
-- 💬 Ask me about **Flutter, Next.js, Firebase, Supabase, Tailwind CSS**
+Backend: Laravel, PHP, Node.js.
+
+Database & Cloud: PostgreSQL, MySQL, MongoDB, Firebase, Supabase.
+
+DevOps & Tools: Docker, Git/GitHub.
+
+Design: UI/UX Design.
+
+🛠 Current Focus: Currently enhancing my expertise in Machine Learning and IoT to build smarter, more connected applications.
 
 - 📫 How to reach me **dhandybintang42@gmail.com**
 
